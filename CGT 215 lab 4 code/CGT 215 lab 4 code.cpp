@@ -100,7 +100,7 @@ void geometric() {
 		cout << x;
 		x = x * y;
 		if (i < z) {
-			cout << " * ";
+			cout << " + ";
 		}
 
 	}
