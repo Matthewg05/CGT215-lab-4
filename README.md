@@ -1,2 +1,5 @@
 # CGT215-lab-4
-CGT 215 lab 4 reposetory
+## Description
+CGT 215 lab 4, practicing loops and flow control.
+## Author
+Matthew Grabczynski
